@@ -27,9 +27,9 @@ To get familiar with SAM CLI and docker to better utilize the AWS resources. And
 
 ## Screenshots
 1. Get a To Do item
-<img src="./screenshots/get-todo.png" width="250" height="500">
+<img src="./screenshots/get-todo.png" width="500" height="500">
 2. Update a To-Do item
-<img src="./screenshots/update-todo.png" width="250" height="500">
+<img src="./screenshots/update-todo.png" width="500" height="500">
 3. Delete a To-Do item
-<img src="./screenshots/get-todo.png" width="250" height="500">
+<img src="./screenshots/get-todo.png" width="500" height="500">
 
