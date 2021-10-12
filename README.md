@@ -31,5 +31,5 @@ To get familiar with SAM CLI and docker to better utilize the AWS resources. And
 2. Update a To-Do item
 <img src="./screenshots/update-todo.png" width="1000" height="500">
 3. Delete a To-Do item
-<img src="./screenshots/get-todo.png" width="1000" height="500">
+<img src="./screenshots/delete-todo.png" width="1000" height="500">
 
