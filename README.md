@@ -16,3 +16,6 @@ The project makes use of SAM CLI tool to handle serverless resources used for th
 
 The requires Docker and SAM CLI to be installed locally.
 
+## Purpose of the project
+
+To get familier with SAM CLI and docker to better utilize the AWS resources. And, to learn, setup and execute the AWS locally on the machine.
